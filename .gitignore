@@ -1,0 +1,10 @@
+logs/
+*.log
+*.jar
+*.bat
+*.sh
+usercache.json
+banned-*.json
+whitelist.json
+ops.json
+plugins/Essentials/userdata/
